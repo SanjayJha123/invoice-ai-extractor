@@ -1,0 +1,7 @@
+pandas
+paddleocr
+paddlepaddle
+openai
+python-dotenv
+azure-ai-documentintelligence
+azure-core
